@@ -1,3 +1,3 @@
-# a simple automation 
+# A simple automation 
 
 - learn how to automate simple movements, tasks using python
