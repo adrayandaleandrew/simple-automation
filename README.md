@@ -1,3 +1,4 @@
 # A simple automation 
 
-- learn how to automate simple movements, tasks using python
+- This simple script automates simple movements, tasks using python after a specified interval
+- 
