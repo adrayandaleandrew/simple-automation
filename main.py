@@ -4,8 +4,8 @@ import threading
 
 
 def autoMove():
-    threading.Timer(200, autoMove).start()
-    pyautogui.click(100, 80)
+    threading.Timer(100, autoMove).start()
+    pyautogui.click(100, 50)
 
   
     random_scroll = random.randint(-1000, +1000)
